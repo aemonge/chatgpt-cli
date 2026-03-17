@@ -1,5 +1,7 @@
 # ChatGPT CLI
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/aemonge)
+
 This project showcases an implementation of a ChatGPT client with streaming support in a Command-Line Interface (CLI)
 environment, demonstrating its practicality and effectiveness.
 
